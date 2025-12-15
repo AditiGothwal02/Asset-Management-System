@@ -75,4 +75,5 @@ This project focuses on building **RESTful APIs using .NET** to manage and track
 - Completed as a **professional training project**
 - Fully functional secure backend
 - Ready for frontend or third-party client integration
+- How to use it - Clone this repository and download visual studio code and open .sln file in that
 
