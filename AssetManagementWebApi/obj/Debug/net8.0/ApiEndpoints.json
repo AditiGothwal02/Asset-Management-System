@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "AssetManagementWebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AssetManagementWebApi.DTO.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementWebApi.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementWebApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AssetManagementWebApi.DTO.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
